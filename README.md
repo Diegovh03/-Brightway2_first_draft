@@ -11,3 +11,4 @@ Carbon dioxide, fossil (1.2 kg)
 Even though water does not contribute to the climate change impact (GWP analysis), its flow is still shown.
 Relative Contribution:
 The second chart displays the percentage contribution of each category to the total impact, allowing for easy comparison of the relative significance of each environmental factor.
+![image](https://github.com/user-attachments/assets/34203d7d-2c8d-4ac8-a473-d4525f969d49)
